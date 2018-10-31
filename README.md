@@ -1,9 +1,3 @@
-<h1 align="center">
-<br>
-Solidity Call Functions
-<br>
-</h1>
-
 ## Description
 
 This solidity project shows how can invoke functions in deployed smart contract with the function hash.
